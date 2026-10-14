@@ -9,6 +9,8 @@ description = "Low-level FFI bindings to AMD's rocJPEG hardware-accelerated JPEG
 license = "MIT"
 keywords = ["rocjpeg", "rocm", "jpeg", "amd", "ffi"]
 categories = ["external-ffi-bindings", "multimedia::images", "api-bindings"]
+homepage = "https://github.com/Nikitf777/rocjpeg-rs-sys"
+repository = "https://github.com/Nikitf777/rocjpeg-rs-sys"
 
 [lib]
 name = "rocjpeg_rs_sys"
